@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hugo López Fernández
 
-<!--
-**hlfernandez/hlfernandez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Assistant Professor<br/>
+SING Research Group, Universidade de Vigo, Spain
 
-Here are some ideas to get you started:
+<a href="https://gitstar-ranking.com/hlfernandez">
+<img src="https://github-readme-stats.vercel.app/api?username=hlfernandez&show_icons=true&bg_color=fff&title_color=00557f&text_color=81736d&hide_border=true&icon_color=216e39)" align="right" width=420 />
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[Github](https://github.com/hlfernandez) | [Twitter](https://twitter.com/hlfernandez) | [Google Scholar](https://scholar.google.com/citations?hl=en&user=VS1jRMoAAAAJ) | [ORCID](http://orcid.org/0000-0002-6476-7206)
+
+- :microscope: I’m currently working on bioinformatics and machine learning.
+- :telescope: I'm passionate about reproducible research and open-source software.
+
+Learn more: https://hlfernandez.github.io/
